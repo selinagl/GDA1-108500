@@ -1,7 +1,7 @@
 
 # Grundlagen der Anwendungsentwicklung A4
 
-Submited by 108500
+Submitted by 108500
 
 ## Introduction to Pandas DataFrames – Replicating an article in Markdown
 
